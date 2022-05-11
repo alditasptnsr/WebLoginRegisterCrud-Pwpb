@@ -246,7 +246,7 @@
           <div class="col-md-4">
             <div class="card crop-img">
               <img
-                src="https://www.ican-education.com/blog/wp-content/uploads/2021/07/universitas-tata-boga-di-luar-negeri.jpg"
+                src="boga.jpg"
                 class="card-img-top"
                 width="200"
                 height="200"
